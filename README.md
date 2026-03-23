@@ -1,6 +1,6 @@
 ## 👋 Hey, I’m Carl
 
-I’m a Computer Science student at Indiana University Bloomington, focused on cloud computing and DevOps. I enjoy building scalable systems, working with infrastructure, and creating applications that are both efficient and user-friendly.
+I'm a Computer Science student at Indiana University Bloomington with a passion for all things tech. I love exploring AI, cloud computing, DevOps, and building scalable, efficient systems, while creating applications that are both smart and user-friendly.
 
 ---
 
