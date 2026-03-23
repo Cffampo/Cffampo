@@ -9,7 +9,7 @@ I’m a Computer Science student at Indiana University Bloomington, focused on c
 * **Languages:** JavaScript (ES6+), Python, Java, C, SQL
 * **Web:** HTML, CSS, DOM, responsive design
 * **Cloud (Learning):** AWS (EC2, S3, IAM, VPC)
-* **Tools:** Git, Linux, Bash, VS Code
+* **Tools:** Git, Linux, Android Studio, VS Code, IntelliJ
 * **Focus Areas:** Cloud infrastructure, backend development, automation
 
 ---
