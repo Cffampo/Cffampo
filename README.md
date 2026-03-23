@@ -10,6 +10,7 @@ I'm a Computer Science student at Indiana University Bloomington with a passion 
 * **Web:** HTML, CSS, DOM, responsive design
 * **Cloud (Learning):** AWS (EC2, S3, IAM, VPC)
 * **Tools:** Git, Linux, Android Studio, VS Code, IntelliJ
+* **AI & ML:** Experience with ChatGPT, Claude, Curosr, and AI-assisted development tools
 * **Focus Areas:** Cloud infrastructure, backend development, automation
 
 ---
