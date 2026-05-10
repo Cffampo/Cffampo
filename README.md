@@ -18,6 +18,8 @@ I'm a full-stack developer with a love for cloud infrastructure ☁️ and AI-po
 
 ## 🛠️ Skills
 
-`Java` `Python` `JavaScript` `Kotlin` `SQL` `HTML/CSS`
-`React` `Node.js` `Express` `Streamlit` `REST APIs`
-`AWS` `MongoDB` `Git` `Linux` `Gemini API` `OpenAI API`
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,kotlin,html,css,react,nodejs,express,aws,mongodb,git,linux,androidstudio,vscode,idea,postman,bash&perline=9)](https://skillicons.dev)
+
+</div>
