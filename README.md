@@ -12,7 +12,7 @@
 
 ---
 
-I'm a full-stack developer with a love for cloud infrastructure ☁️ and AI-powered apps 🤖. Currently studying CS at IU Bloomington (Informatics & Data Science minors), building projects on AWS, and integrating LLM APIs into real tools. Dean's List · GPA 3.70
+I'm a full-stack developer who loves building at the intersection of cloud infrastructure ☁️, AI-powered apps 🤖, and clean backend systems. Currently studying CS at IU Bloomington with minors in Informatics and Data Science — and putting that knowledge to use by shipping real projects on AWS, integrating LLM APIs, and interning as a web developer. Whether it's architecting a serverless pipeline or fine-tuning an AI scoring tool, I'm always building something. Dean's List · GPA 3.70
 
 ---
 
