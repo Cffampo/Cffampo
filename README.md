@@ -20,6 +20,7 @@ I'm a full-stack developer who loves building at the intersection of cloud infra
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,js,kotlin,html,css,react,nodejs,express,aws,mongodb,git,linux,androidstudio,vscode,idea,postman,bash&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,kotlin,html,css,react,nodejs,express,aws,docker,mongodb,git,linux,androidstudio,vscode,idea,postman,bash\&perline=9)](https://skillicons.dev)
+
 
 </div>
